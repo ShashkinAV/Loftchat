@@ -35,7 +35,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
-    "ss": "node server/server.js",
+    "srv": "node server/server.js",
     "build": "webpack --progress --colors",
     "watch": "webpack-dev-server --progress --colors --open",
     "start": "npm run watch"
