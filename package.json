@@ -1,5 +1,5 @@
 {
-  "name": "LoftChat",
+  "name": "loftchat",
   "version": "1.0.0",
   "description": "chat",
   "main": "server.js",
